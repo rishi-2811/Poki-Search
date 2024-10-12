@@ -10,7 +10,7 @@ The **Pokémon Search App** is a simple and interactive React-based web applicat
 - **Loading and Error Handling**: Displays a loading spinner while data is being fetched and handles any errors during the data fetch process.
 
 ### Live Demo
-You can see the project live here: [Pokémon Search App](#)
+You can see the project live here: [Pokémon Search App](https://pokie-search.vercel.app/)
 
 ### Technologies Used
 - **Frontend**: React.js
